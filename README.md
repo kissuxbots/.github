@@ -1,8 +1,8 @@
-# 🌈 Wᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ᴋɪssᴜ ✘ ʙᴏᴛs! 🌈
+## 🌈 Wᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ᴋɪssᴜ ✘ ʙᴏᴛs! 🌈
 
 ✨ Wᴇ sᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ᴄʀᴇᴀᴛɪɴɢ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴀɴᴅ ғᴜɴ Tᴇʟᴇɢʀᴀᴍ ʙᴏᴛs ᴛʜᴀᴛ ᴇɴʜᴀɴᴄᴇ ʏᴏᴜʀ ᴍᴇssᴀɢɪɴɢ ᴇxᴘᴇʀɪᴇɴᴄᴇ. Aʟʟ ᴏᴜʀ ʙᴏᴛs ᴀʀᴇ FREE ᴛᴏ ᴜsᴇ ʙᴇᴄᴀᴜsᴇ ᴡᴇ ʙᴇʟɪᴇᴠᴇ ɪɴ ᴍᴀᴋɪɴɢ ᴛᴇᴄʜɴᴏʟᴏɢʏ ᴀᴄᴄᴇssɪʙʟᴇ ᴛᴏ ᴇᴠᴇʀʏᴏɴᴇ! ✨
-![ᴋɪssᴜ ✘ ʙᴏᴛs](https://t.me/kissuxbots)
----
+[ᴋɪssᴜ ✘ ʙᴏᴛs](https://t.me/kissuxbots)
+
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api/?username=kissuxbots &cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
@@ -10,7 +10,7 @@
 
 Hᴇʀᴇ ᴀʀᴇ sᴏᴍᴇ ᴏғ ᴏᴜʀ ᴘᴏᴘᴜʟᴀʀ ʙᴏᴛs ᴛʜᴀᴛ ʏᴏᴜ ᴄᴀɴ sᴛᴀʀᴛ ᴜsɪɴɢ ᴛᴏᴅᴀʏ:
 
-### 𝟷. ──「 ᴅᴇᴠɪʟ ᴍᴏᴠɪᴇs ʙᴏᴛ 」──  
+## 𝟷. ──「 ᴅᴇᴠɪʟ ᴍᴏᴠɪᴇs ʙᴏᴛ 」──  
 
 <details><summary><b> - ғᴇᴀᴛᴜʀᴇs :</b></summary>
   
@@ -69,11 +69,7 @@ Hᴇʀᴇ ᴀʀᴇ sᴏᴍᴇ ᴏғ ᴏᴜʀ ᴘᴏᴘᴜʟᴀʀ ʙᴏᴛs ᴛʜ
 <p align="center">
   <img src="https://telegra.ph/file/ded6640caffcd72b77f64.jpg">
 </p>
-
----
-
-
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🎉 Hᴏᴡ ᴛᴏ Usᴇ 🎉
 
@@ -82,7 +78,7 @@ Hᴇʀᴇ ᴀʀᴇ sᴏᴍᴇ ᴏғ ᴏᴜʀ ᴘᴏᴘᴜʟᴀʀ ʙᴏᴛs ᴛʜ
 𝟹. Eɴᴊᴏʏ ᴛʜᴇ ғʀᴇᴇ sᴇʀᴠɪᴄᴇs! 🎊
 
 ---
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## 🔗 Jᴏɪɴ Us ᴏɴ Tᴇʟᴇɢʀᴀᴍ! 🔗
 
 Sᴛᴀʏ ᴜᴘᴅᴀᴛᴇᴅ ᴡɪᴛʜ ᴏᴜʀ ʟᴀᴛᴇsᴛ ʙᴏᴛs ᴀɴᴅ ғᴇᴀᴛᴜʀᴇs! Jᴏɪɴ ᴏᴜʀ Tᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ:
@@ -97,10 +93,8 @@ Sᴛᴀʏ ᴜᴘᴅᴀᴛᴇᴅ ᴡɪᴛʜ ᴏᴜʀ ʟᴀᴛᴇsᴛ ʙᴏᴛs �
 <a href="https://telegram.me/kissuXbots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
----
 
 ## 🤝 Cᴏɴᴛʀɪʙᴜᴛɪɴɢ 🤝
 
