@@ -82,12 +82,23 @@ Hᴇʀᴇ ᴀʀᴇ sᴏᴍᴇ ᴏғ ᴏᴜʀ ᴘᴏᴘᴜʟᴀʀ ʙᴏᴛs ᴛʜ
 𝟹. Eɴᴊᴏʏ ᴛʜᴇ ғʀᴇᴇ sᴇʀᴠɪᴄᴇs! 🎊
 
 ---
-
+━━━━━━━━━━━━━━━━━━━━
 ## 🔗 Jᴏɪɴ Us ᴏɴ Tᴇʟᴇɢʀᴀᴍ! 🔗
 
 Sᴛᴀʏ ᴜᴘᴅᴀᴛᴇᴅ ᴡɪᴛʜ ᴏᴜʀ ʟᴀᴛᴇsᴛ ʙᴏᴛs ᴀɴᴅ ғᴇᴀᴛᴜʀᴇs! Jᴏɪɴ ᴏᴜʀ Tᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ:
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
 
-👉 [Jᴏɪɴ Oᴜʀ Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ](ʜᴛᴛᴘs://ᴛ.ᴍᴇ/ʏᴏᴜʀ_ᴛᴇʟᴇɢʀᴀᴍ_ɢʀᴏᴜᴘ) 👈
+<p align="center">
+<a href="https://telegram.me/pwlived"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+<p align="center">
+<a href="https://telegram.me/kissuXbots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+━━━━━━━━━━━━━━━━━━━━
+
 
 ---
 
