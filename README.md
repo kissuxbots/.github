@@ -2,9 +2,6 @@
 
 <h4> ✨ Wᴇ sᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ᴄʀᴇᴀᴛɪɴɢ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴀɴᴅ ғᴜɴ Tᴇʟᴇɢʀᴀᴍ ʙᴏᴛs. Aʟʟ ᴏᴜʀ ʙᴏᴛs ᴀʀᴇ FREE ᴛᴏ ᴜsᴇ ʙᴇᴄᴀᴜsᴇ ᴡᴇ ʙᴇʟɪᴇᴠᴇ ɪɴ ᴍᴀᴋɪɴɢ ᴛᴇᴄʜɴᴏʟᴏɢʏ ᴀᴄᴄᴇssɪʙʟᴇ ᴛᴏ ᴇᴠᴇʀʏᴏɴᴇ! ✨ <h4>
 
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api/?username=xaekks&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
-</p>
 
 ## 🚀 Oᴜʀ Bᴏᴛs 🚀
 
@@ -133,4 +130,7 @@ Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴏʀ ɴᴇᴇᴅ sᴜᴘ�
 
 <p align="center">
 <a href="https://telegram.me/xaekks"><img src="https://img.shields.io/badge/「 𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪 」-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api/?username=xaekks&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
