@@ -3,7 +3,7 @@
 <h4> ✨ Wᴇ sᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ᴄʀᴇᴀᴛɪɴɢ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴀɴᴅ ғᴜɴ Tᴇʟᴇɢʀᴀᴍ ʙᴏᴛs. Aʟʟ ᴏᴜʀ ʙᴏᴛs ᴀʀᴇ FREE ᴛᴏ ᴜsᴇ ʙᴇᴄᴀᴜsᴇ ᴡᴇ ʙᴇʟɪᴇᴠᴇ ɪɴ ᴍᴀᴋɪɴɢ ᴛᴇᴄʜɴᴏʟᴏɢʏ ᴀᴄᴄᴇssɪʙʟᴇ ᴛᴏ ᴇᴠᴇʀʏᴏɴᴇ! ✨ <h4>
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api/?username=kissuxbots &cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+  <img src="https://github-stats-alpha.vercel.app/api/?username=kissuxbots&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
 ## 🚀 Oᴜʀ Bᴏᴛs 🚀
