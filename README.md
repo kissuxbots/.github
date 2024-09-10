@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api/?username=kissuxbots &cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
+
 ## 🚀 Oᴜʀ Bᴏᴛs 🚀
 
 Hᴇʀᴇ ᴀʀᴇ sᴏᴍᴇ ᴏғ ᴏᴜʀ ᴘᴏᴘᴜʟᴀʀ ʙᴏᴛs ᴛʜᴀᴛ ʏᴏᴜ ᴄᴀɴ sᴛᴀʀᴛ ᴜsɪɴɢ ᴛᴏᴅᴀʏ:
@@ -69,7 +70,7 @@ Hᴇʀᴇ ᴀʀᴇ sᴏᴍᴇ ᴏғ ᴏᴜʀ ᴘᴏᴘᴜʟᴀʀ ʙᴏᴛs ᴛʜ
 <p align="center">
   <img src="https://telegra.ph/file/ded6640caffcd72b77f64.jpg">
 </p>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🎉 Hᴏᴡ ᴛᴏ Usᴇ 🎉
 
@@ -78,7 +79,7 @@ Hᴇʀᴇ ᴀʀᴇ sᴏᴍᴇ ᴏғ ᴏᴜʀ ᴘᴏᴘᴜʟᴀʀ ʙᴏᴛs ᴛʜ
 𝟹. Eɴᴊᴏʏ ᴛʜᴇ ғʀᴇᴇ sᴇʀᴠɪᴄᴇs! 🎊
 
 ---
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━
 ## 🔗 Jᴏɪɴ Us ᴏɴ Tᴇʟᴇɢʀᴀᴍ! 🔗
 
 Sᴛᴀʏ ᴜᴘᴅᴀᴛᴇᴅ ᴡɪᴛʜ ᴏᴜʀ ʟᴀᴛᴇsᴛ ʙᴏᴛs ᴀɴᴅ ғᴇᴀᴛᴜʀᴇs! Jᴏɪɴ ᴏᴜʀ Tᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ:
@@ -93,7 +94,7 @@ Sᴛᴀʏ ᴜᴘᴅᴀᴛᴇᴅ ᴡɪᴛʜ ᴏᴜʀ ʟᴀᴛᴇsᴛ ʙᴏᴛs �
 <a href="https://telegram.me/kissuXbots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 ## 🤝 Cᴏɴᴛʀɪʙᴜᴛɪɴɢ 🤝
@@ -120,9 +121,13 @@ Tʜɪs ᴘʀᴏᴊᴇᴄᴛ ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ MIT L
 
 Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴏʀ ɴᴇᴇᴅ sᴜᴘᴘᴏʀᴛ, ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ:
 
-- ✉️ Eᴍᴀɪʟ: sᴜᴘᴘᴏʀᴛ@ᴛᴇʟᴇɢʀᴀᴍʙᴏᴛs.ᴏʀɢ
-- 📱 Tᴇʟᴇɢʀᴀᴍ: [@YᴏᴜʀSᴜᴘᴘᴏʀᴛBᴏᴛ](ʜᴛᴛᴘs://ᴛ.ᴍᴇ/YᴏᴜʀSᴜᴘᴘᴏʀᴛBᴏᴛ)
+- ✉️ Eᴍᴀɪʟ: help@kissubots.in
+- 📱 Tᴇʟᴇɢʀᴀᴍ: [「 𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪 」](https://t.me/xaekks)
+<h3 align="center">
+    ─「 Owner 」─
+</h3>
 
+- <b>[𓆩•𝐊𝐢𝐬𝐬𝐮💞•𓆪](https://github.com/ishan-rajput) 
 ---
 
 🌟 Tʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ᴠɪsɪᴛɪɴɢ ᴏᴜʀ ᴏʀɢᴀɴɪᴢᴀᴛɪᴏɴ! Wᴇ ʜᴏᴘᴇ ʏᴏᴜ ᴇɴᴊᴏʏ ᴜsɪɴɢ ᴏᴜʀ ʙᴏᴛs! 🌟
