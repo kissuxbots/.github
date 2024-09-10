@@ -1,7 +1,6 @@
 ## 🌈 Wᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ᴋɪssᴜ ✘ ʙᴏᴛs! 🌈
 
-✨ Wᴇ sᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ᴄʀᴇᴀᴛɪɴɢ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴀɴᴅ ғᴜɴ Tᴇʟᴇɢʀᴀᴍ ʙᴏᴛs ᴛʜᴀᴛ ᴇɴʜᴀɴᴄᴇ ʏᴏᴜʀ ᴍᴇssᴀɢɪɴɢ ᴇxᴘᴇʀɪᴇɴᴄᴇ. Aʟʟ ᴏᴜʀ ʙᴏᴛs ᴀʀᴇ FREE ᴛᴏ ᴜsᴇ ʙᴇᴄᴀᴜsᴇ ᴡᴇ ʙᴇʟɪᴇᴠᴇ ɪɴ ᴍᴀᴋɪɴɢ ᴛᴇᴄʜɴᴏʟᴏɢʏ ᴀᴄᴄᴇssɪʙʟᴇ ᴛᴏ ᴇᴠᴇʀʏᴏɴᴇ! ✨
-[ᴋɪssᴜ ✘ ʙᴏᴛs](https://t.me/kissuxbots)
+✨ Wᴇ sᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ᴄʀᴇᴀᴛɪɴɢ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴀɴᴅ ғᴜɴ Tᴇʟᴇɢʀᴀᴍ ʙᴏᴛs. Aʟʟ ᴏᴜʀ ʙᴏᴛs ᴀʀᴇ FREE ᴛᴏ ᴜsᴇ ʙᴇᴄᴀᴜsᴇ ᴡᴇ ʙᴇʟɪᴇᴠᴇ ɪɴ ᴍᴀᴋɪɴɢ ᴛᴇᴄʜɴᴏʟᴏɢʏ ᴀᴄᴄᴇssɪʙʟᴇ ᴛᴏ ᴇᴠᴇʀʏᴏɴᴇ! ✨
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api/?username=kissuxbots &cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
@@ -122,12 +121,11 @@ Tʜɪs ᴘʀᴏᴊᴇᴄᴛ ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ MIT L
 Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴏʀ ɴᴇᴇᴅ sᴜᴘᴘᴏʀᴛ, ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ:
 
 - ✉️ Eᴍᴀɪʟ: help@kissubots.in
-- 📱 Tᴇʟᴇɢʀᴀᴍ: [「 𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪 」](https://t.me/xaekks)
-<h3 align="center">
-    ─「 Owner 」─
-</h3>
+- 📱 Tᴇʟᴇɢʀᴀᴍ: [「 𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪 」](https://t.me/xaekks)</h3>
 
-- <b>[𓆩•𝐊𝐢𝐬𝐬𝐮💞•𓆪](https://github.com/ishan-rajput) 
+<p align="center">
+<a href="https://telegram.me/xaekks"><img src="https://img.shields.io/badge/「 𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪 」-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 ---
 
 🌟 Tʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ᴠɪsɪᴛɪɴɢ ᴏᴜʀ ᴏʀɢᴀɴɪᴢᴀᴛɪᴏɴ! Wᴇ ʜᴏᴘᴇ ʏᴏᴜ ᴇɴᴊᴏʏ ᴜsɪɴɢ ᴏᴜʀ ʙᴏᴛs! 🌟
