@@ -121,11 +121,16 @@ Tʜɪs ᴘʀᴏᴊᴇᴄᴛ ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ MIT L
 Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴏʀ ɴᴇᴇᴅ sᴜᴘᴘᴏʀᴛ, ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ:
 
 - ✉️ Eᴍᴀɪʟ: help@kissubots.in
-- 📱 Tᴇʟᴇɢʀᴀᴍ: [「 𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪 」](https://t.me/xaekks)</h3>
+- 📱 Tᴇʟᴇɢʀᴀᴍ: [ 𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪 ](https://t.me/xaekks)</h3>
+
+---
+
+🌟 Tʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ᴠɪsɪᴛɪɴɢ ᴏᴜʀ ᴏʀɢᴀɴɪᴢᴀᴛɪᴏɴ! Wᴇ ʜᴏᴘᴇ ʏᴏᴜ ᴇɴᴊᴏʏ ᴜsɪɴɢ ᴏᴜʀ ʙᴏᴛs! 🌟
+
+<h3 align="center">
+    ─「 ᴄʀᴇᴅɪᴛs 」─
+</h3>
 
 <p align="center">
 <a href="https://telegram.me/xaekks"><img src="https://img.shields.io/badge/「 𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪 」-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
----
-
-🌟 Tʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ᴠɪsɪᴛɪɴɢ ᴏᴜʀ ᴏʀɢᴀɴɪᴢᴀᴛɪᴏɴ! Wᴇ ʜᴏᴘᴇ ʏᴏᴜ ᴇɴᴊᴏʏ ᴜsɪɴɢ ᴏᴜʀ ʙᴏᴛs! 🌟
